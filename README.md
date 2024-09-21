@@ -5,9 +5,8 @@ any working guide to an actual project.
 <br>
 ### Proposal  (Level 3 Heading)
 ---
-I am planning to make a computer vision software that detects objects in images.<br>
-In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org/)<br>
-or [PyTorch](https://pytorch.org/), and other open source softwares.
+I am planning to make a computer vision software that detects objects in images. In order to build it, I will use OpenCV, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/), and other open source software.
+
 
 for exmple, object in the following image were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
 
@@ -15,8 +14,8 @@ for exmple, object in the following image were detected using [mmdetection](http
 
 ---
 ### Dependencies (Level 3 Heading)
-- pyton
-- opencv-pyton 
+- python
+- opencv-python 
 - tensorflow 
 - openmlab 
 - package manger 
