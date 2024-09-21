@@ -2,10 +2,12 @@
 **Note:** This document is written merely as an illustrative example, and does not provide
 any working guide to an actual project.
 
-<br>
+
 ### Proposal  (Level 3 Heading)
 ---
-I am planning to make a computer vision software that detects objects in images. In order to build it, I will use OpenCV, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/), and other open source software.
+I am planning to make a computer vision software that detects objects in images.  
+In order to build it, I will use OpenCV, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org/)
+or [PyTorch](https://pytorch.org/), and other open source software.
 
 
 for exmple, object in the following image were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
@@ -21,7 +23,7 @@ for exmple, object in the following image were detected using [mmdetection](http
 - package manger 
 
 ### Installation
-In a bash terminal, run the following commands (Do NOT actually run these commands in <br>
+In a bash terminal, run the following commands (Do NOT actually run these commands in 
 your computer):
 ``` sh
 $ sudo apt update
